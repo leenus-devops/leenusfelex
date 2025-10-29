@@ -1,6 +1,6 @@
 👋 Hi, I'm Leenus Felex J  
 
-💡 DevOps & Cloud Engineer | AWS | Azure | CI/CD | Automation  
+💡 DevOps & Cloud Engineer | AWS | CI/CD | Automation  
 
 I design and deploy scalable, secure cloud infrastructures with automation-first principles.  
 Currently part of FusionPact Technologies, exploring multi-cloud CI/CD and Kubernetes orchestration.  
